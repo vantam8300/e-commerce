@@ -18,7 +18,7 @@ This app is built to manage an e-commerce company's database from the back end.
 1) Run `node index.js` in the command line.
 2) Use Insomnia to test and run the application.
 
-[Click Here](https://drive.google.com/file/d/17UInxdkBiFgkcB4FkmZJWWX8DcHHtFDs/view) for a link to the demo video.
+[Click Here](https://drive.google.com/file/d/19U3kPBrW-5X6vvHeMKGYGIjCrISwsFdn/view) for a link to the demo video.
 
 ![instruction video](./public/images/instruction%20video.gif)
 
